@@ -1,4 +1,4 @@
-Meu nome é Nayara, tenho 24 anos, ainda não tenho experiência com programação mas hoje meu foco é me tornar uma programadora front-end.
+<p>Meu nome é Nayara, tenho 24 anos, ainda não tenho experiência com programação mas hoje meu foco é me tornar uma programadora front-end.</p>
 
 
 <div>
