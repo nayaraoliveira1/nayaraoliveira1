@@ -1,3 +1,7 @@
+Meu nome é Nayara, tenho 24 anos, 
+ainda não tenho experiência com programação mas hoje meu foco é me tornar uma programadora front-end.
+
+
 <div>
   <a href="https://github.com/nayaraoliveira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayaraoliveira1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
