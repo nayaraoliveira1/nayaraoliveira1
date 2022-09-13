@@ -1,5 +1,5 @@
 <p>Meu nome é Nayara, tenho 24 anos e ainda não tenho experiência com programação.<br>
-Hoje meu objetivo é me tornar uma programadora front-end e estou no foco para isso.</p>
+Meu objetivo é me tornar uma programadora front-end e estou no foco para isso.</p>
 <br>
 <br>
 
